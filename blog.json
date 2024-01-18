@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Todo App with Vue",
+    "cover": "https://th.bing.com/th/id/R.964f9729f556fe5468acaba03fabe6a9?rik=X117M0EKl94WJQ&pid=ImgRaw&r=0",
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "Getting started with TypeScript",
+    "cover": "https://th.bing.com/th/id/R.43a00a4812717bc2906b4ff3de58462a?rik=8Qj7SpYACZK5Jg&pid=ImgRaw&r=0",
+    "author": "Claman Joe"
+  }
+]
